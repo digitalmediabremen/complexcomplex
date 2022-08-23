@@ -10,7 +10,7 @@
 - Zimoun
 - David Bowen
 - Yunchul Kim
--
+- 
 
 ## Emergent Computing
 
