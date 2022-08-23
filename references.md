@@ -1,7 +1,7 @@
 # references and links
 
 ## books
-- A New Kind of Science
+- Stephen Wolfram: A New Kind of Science ([Web Version](https://www.wolframscience.com/nks/))
 - Self Replicating Kinetic Machines
 - Rechnender Raum ( Konrad Zuse )
 
