@@ -3,7 +3,7 @@
 ## books
 - Stephen Wolfram: A New Kind of Science ([Web Version](https://www.wolframscience.com/nks/))
 - Robert A. Freitas Jr. and Ralph C. Merkle: Kinematic Self-Replicating Machines ([PDF Version](https://silo.pub/kinematic-self-replicating-machines.html))
-- Rechnender Raum ( Konrad Zuse )
+- Konrad Zuse: Rechnender Raum ([PDF Version DE](http://webmail.inb.uni-luebeck.de/~claussen/sysbio2012/zuse_76scan.pdf))
 
 
 ## artists
