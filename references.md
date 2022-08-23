@@ -1,6 +1,6 @@
 # references and links
 
-## Books
+## books
 - A New Kind of Science
 - Self Replicating Kinetic Machines
 - Rechnender Raum ( Konrad Zuse )
