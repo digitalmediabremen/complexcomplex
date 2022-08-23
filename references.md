@@ -7,9 +7,9 @@
 
 
 ## artists
-- Zimoun
-- David Bowen
-- Yunchul Kim
+- Zimoun [Website](https://www.zimoun.net/)
+- David Bowen [Website](https://www.dwbowen.com/)
+- Yunchul Kim [Website](https://yunchulkim.net/)
 - 
 
 ## Emergent Computing
