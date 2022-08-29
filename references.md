@@ -6,9 +6,11 @@
 - Konrad Zuse: Rechnender Raum ([PDF Version DE](http://webmail.inb.uni-luebeck.de/~claussen/sysbio2012/zuse_76scan.pdf))
 - Heinz von Förster Archive ([Website](https://hvfoerster.univie.ac.at/index.html))
 - Heinz von Förster 100 / Serlf-Organization and Emergence ([conferent Website](https://hvfoerster.univie.ac.at/congress/SelfOrganization.html))
+- Gordon Pask Archive ([Website](https://www.pangaro.com/pask-pdfs.html), [Archive](https://www.pangaro.com/Pask-Archive/Pask-Archive.html))
 
 ## artists
 - Philli Beesley ([Website](https://www.philipbeesleystudioinc.com/))
+- Living Architecture Systems Group ([Website](https://livingarchitecturesystems.com/))
 - Zimoun ([Website](https://www.zimoun.net/)))
 - David Bowen ([Website](https://www.dwbowen.com/))
 - Yunchul Kim ([Website](https://yunchulkim.net/))
