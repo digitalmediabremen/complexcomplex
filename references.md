@@ -1,6 +1,8 @@
 # references and links
 
 ## reads
+- Collective Intelligence for Deep Learning: A Survey of Recent Developments
+([Web link](https://blog.otoro.net/2022/10/01/collectiveintelligence/))
 - Stephen Wolfram: A New Kind of Science ([Web Version](https://www.wolframscience.com/nks/))
 - Robert A. Freitas Jr. and Ralph C. Merkle: Kinematic Self-Replicating Machines ([PDF Version](https://silo.pub/kinematic-self-replicating-machines.html))
 - Konrad Zuse: Rechnender Raum ([PDF Version DE](http://webmail.inb.uni-luebeck.de/~claussen/sysbio2012/zuse_76scan.pdf))
@@ -9,6 +11,7 @@
 - Gordon Pask Archive ([Website](https://www.pangaro.com/pask-pdfs.html), [Archive](https://www.pangaro.com/Pask-Archive/Pask-Archive.html))
 
 ## artists
+- Joost Rekveld ([Website](http://www.joostrekveld.net/))
 - Philli Beesley ([Website](https://www.philipbeesleystudioinc.com/))
 - Living Architecture Systems Group ([Website](https://livingarchitecturesystems.com/))
 - Zimoun ([Website](https://www.zimoun.net/)))
