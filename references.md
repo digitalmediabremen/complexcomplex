@@ -9,6 +9,7 @@
 - Heinz von Förster Archive ([Website](https://hvfoerster.univie.ac.at/index.html))
 - Heinz von Förster 100 / Serlf-Organization and Emergence ([conferent Website](https://hvfoerster.univie.ac.at/congress/SelfOrganization.html))
 - Gordon Pask Archive ([Website](https://www.pangaro.com/pask-pdfs.html), [Archive](https://www.pangaro.com/Pask-Archive/Pask-Archive.html))
+- Heinz von Förster: ON SELF-ORGANIZING SYSTEMS AND THEIR ENVIRONMENTS ([web link](https://www.organism.earth/library/document/on-self-organizing-systems))
 
 ## artists
 - Joost Rekveld ([Website](http://www.joostrekveld.net/))
