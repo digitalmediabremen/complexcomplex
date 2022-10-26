@@ -10,6 +10,7 @@
 - Heinz von Förster 100 / Serlf-Organization and Emergence ([conferent Website](https://hvfoerster.univie.ac.at/congress/SelfOrganization.html))
 - Gordon Pask Archive ([Website](https://www.pangaro.com/pask-pdfs.html), [Archive](https://www.pangaro.com/Pask-Archive/Pask-Archive.html))
 - Heinz von Förster: ON SELF-ORGANIZING SYSTEMS AND THEIR ENVIRONMENTS ([web link](https://www.organism.earth/library/document/on-self-organizing-systems))
+- Handmade Electronic Music: The Art of Hardware Hacking ([Book](https://routledgetextbooks.com/textbooks/9780367210106/))
 
 ## artists
 - Joost Rekveld ([Website](http://www.joostrekveld.net/))
@@ -22,12 +23,13 @@
 - Ursula Damm ([Website](https://ursuladamm.de/))
 - Conrad Shawcross ([Website](https://conradshawcross.com/))
 - Gego ([Wikipedia](https://en.wikipedia.org/wiki/Gego))
-- 
-
-## Emergent Computing
-
-
-## articles
--
--
--
+- Ralf Schreiber ([Website](http://www.ralfschreiber.com/))
+- Niclas Collins
+- Christian Faubel
+- Ian Chang
+- Tomas Saraceno ([Website](https://studiotomassaraceno.org/))
+- Peter Blasser ([Website](https://ciat-lonbarde.net/))
+- Daniel Temkin ([Website](https://danieltemkin.com/))
+- Loud Objects ([Youtube](https://www.youtube.com/watch?v=nlOtKX2eN7M))
+- Tristan Perich ([Website](http://www.tristanperich.com/))
+- Chris Salter: ([Website](https://www.chrissalter.com/)
